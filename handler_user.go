@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/domscript/internal/database"
+	"github.com/domscript/myproject/internal/database"
 
 	"github.com/google/uuid"
 )

@@ -12,7 +12,7 @@ import (
 	"github.com/go-chi/cors"
 	"github.com/joho/godotenv"
 
-	"github.com/domscript/internal/database"
+	"github.com/domscript/myproject/internal/database"
 
 	_ "github.com/lib/pq"
 )

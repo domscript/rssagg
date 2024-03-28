@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/domscript/internal/database"
+	"github.com/domscript/myproject/internal/database"
 	"github.com/google/uuid"
 )
 
